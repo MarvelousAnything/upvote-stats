@@ -1,0 +1,5 @@
+**/praw.ini
+venv/**
+**/data.csv
+**/.idea/**
+**/.git/**
